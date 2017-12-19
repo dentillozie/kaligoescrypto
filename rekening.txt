@@ -1,0 +1,17 @@
+rekening
+-----------
+
+Tillo: 100
+Dieter: 100
+Gerben: 100
+Hannes: 20
+Nico: 100
+Bart: 
+------------
+tot: 420
+------------
+na trans: 320
+
+transacties:
+-------------
+100 --> 136.56 ripple --> rM7hXnVUSkYD18jBHMmGBsZyn9JSeHkmX
