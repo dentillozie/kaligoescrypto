@@ -1,16 +1,16 @@
 rekening
 -----------
 
-Tillo: 100
+Tillo:  100
 Dieter: 100
 Gerben: 100
 Hannes: 20
-Nico: 100
+Nico:   100
 Bart: 
 ------------
-tot: 420
+tot:    420
 ------------
-na trans: 320
+after:  320
 
 transacties:
 -------------
