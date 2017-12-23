@@ -7,11 +7,13 @@ Gerben: 100
 Hannes: 20
 Nico:   100
 Bart: 
+dani:   
 ------------
 tot:    420
 ------------
-after:  320
+after:  -2
 
 transacties:
 -------------
 100 --> 136.56 ripple --> rM7hXnVUSkYD18jBHMmGBsZyn9JSeHkmX
+322 --> 2741.699 XVG  --> DJbCLFs34h4ixGUxbp9sjkyQxttjfm3vDU
